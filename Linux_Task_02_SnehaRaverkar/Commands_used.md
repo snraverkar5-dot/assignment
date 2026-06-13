@@ -11,76 +11,76 @@
 
 
 # Part B 
-# To create users and group
+## To create users and group
 
-  # Create groups
+  ### Create groups
 sudo groupadd interns
 sudo groupadd cyberteam
 
-# Create users
+### Create users
 sudo useradd student1
 sudo useradd student2
 sudo useradd student3
 
-# Add users to groups
+### Add users to groups
 sudo usermod -aG interns student1
 sudo usermod -aG cyberteam student2
 sudo usermod -aG interns student3
 
-# Verify group membership
+### Verify group membership
 groups student1
 groups student2
 groups student3
 
-# Display user and group IDs
+### Display user and group IDs
 id student1
 id student2
 
 
 
 # Part C: File Ownership
-# File Ownership Commands
+## File Ownership Commands
 
-## Create Project Folder
+### Create Project Folder
 mkdir CyberSecurity_Project
 
-## Move into Folder
+### Move into Folder
 cd CyberSecurity_Project
 
-## Create Files
+### Create Files
 touch report.txt
 touch notes.txt
 touch credentials.txt
 
-## Check File Ownership
+### Check File Ownership
 ls -l
 
-## Change Ownership
+### Change Ownership
 sudo chown student3 report.txt
 
-## Verify Ownership Change
+### Verify Ownership Change
 ls -l
 
 
 
 # Part D: File Permissions
-# File Permission Commands
+## File Permission Commands
 
-## Create File
+### Create File
 touch security_policy.txt
 
-## Check Current Permissions
+### Check Current Permissions
 ls -l security_policy.txt
 
-## Set Read Only Permissions
+### Set Read Only Permissions
 chmod 444 security_policy.txt
 ls -l security_policy.txt
 
-## Set Read and Write Permissions
+### Set Read and Write Permissions
 chmod 664 security_policy.txt
 ls -l security_policy.txt
 
-## Set Full Access Permissions
+### Set Full Access Permissions
 chmod 777 security_policy.txt
 ls -l security_policy.txt
   
