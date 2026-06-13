@@ -15,21 +15,28 @@
 
   ### Create groups
 sudo groupadd interns
+
 sudo groupadd cyberteam
 
 ### Create users
 sudo useradd student1
+
 sudo useradd student2
+
 sudo useradd student3
 
 ### Add users to groups
 sudo usermod -aG interns student1
+
 sudo usermod -aG cyberteam student2
+
 sudo usermod -aG interns student3
 
 ### Verify group membership
 groups student1
+
 groups student2
+
 groups student3
 
 ### Display user and group IDs
