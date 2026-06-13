@@ -1,1 +1,1 @@
-# This contains the screenshot of table craeted and answers
+# This contains the screenshot of table created and answers
