@@ -2,13 +2,20 @@
 
 pwd – Displays the full path of the current working directory, showing your current location in the
 Linux file system.
+
 ls – Lists the files and directories present in the current directory.
+
 ls -la – Displays a detailed list of all files and directories, including hidden files, along with
 permissions, owner, size, and modification date.
+
 cd – Changes the current working directory to another directory specified by the user.
+
 clear – Clears all previous text from the terminal screen, providing a clean workspace.
+
 history – Shows a list of commands that have been previously executed in the terminal.
+
 whoami – Displays the username of the currently logged-in user.
+
 hostname – Displays the name of the computer or system on the network
 
 # Part D: File Management
@@ -40,7 +47,10 @@ and directories.
 # Part E: System Information Collection
 
 ● Kernel Version:-6.18.12+kali-amd64
+
 ● Username:-Kali
+
 ● Current Directory:-/home/sneha
+
 ● Current Date and Time :-Fri Jun 12 09:13:01 AM EDT 2026
 
