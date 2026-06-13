@@ -15,7 +15,7 @@ The ownership of report.txt was successfully changed from student1 to student3. 
 # Part D: File Permissions
 File Name: security_policy.txt
 
-1. Read Only (r--r--r--)
+### 1. Read Only (r--r--r--)
    
 Command Used:
 chmod 444 security_policy.txt
@@ -23,7 +23,7 @@ chmod 444 security_policy.txt
 Observation:
 All users can read the file, but nobody can modify or execute it.
 
-2. Read & Write (rw-rw-r--)
+### 2. Read & Write (rw-rw-r--)
  
 Command Used:
 chmod 664 security_policy.txt
@@ -31,7 +31,7 @@ chmod 664 security_policy.txt
 Observation:
 The owner and group can read and modify the file. Other users can only read it.
 
-3. Full Access (rwxrwxrwx)
+### 3. Full Access (rwxrwxrwx)
    
 Command Used:
 chmod 777 security_policy.txt
@@ -87,7 +87,9 @@ Used for sensitive files such as passwords and private keys.
 
 ### Permission 700
 Owner Rights: Read, Write, Execute
+
 Group Rights: No Access
+
 Other User Rights: No Access
 
 Use Case:
