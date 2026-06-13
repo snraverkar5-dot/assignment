@@ -49,8 +49,8 @@ cd CyberSecurity_Project
 
 ### Create Files
 touch report.txt
-touch notes.txt
-touch credentials.txt
+ notes.txt
+credentials.txt
 
 ### Check File Ownership
 ls -l
@@ -74,13 +74,16 @@ ls -l security_policy.txt
 
 ### Set Read Only Permissions
 chmod 444 security_policy.txt
+
 ls -l security_policy.txt
 
 ### Set Read and Write Permissions
 chmod 664 security_policy.txt
+
 ls -l security_policy.txt
 
 ### Set Full Access Permissions
 chmod 777 security_policy.txt
+
 ls -l security_policy.txt
   
