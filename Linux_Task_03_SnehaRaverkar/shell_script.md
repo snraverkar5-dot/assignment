@@ -1,5 +1,4 @@
-```bash
-#!/bin/bash
+
 
 echo "System Information Report"
 echo "-------------------------"
@@ -15,4 +14,4 @@ free -h
 echo ""
 echo "Disk Usage:"
 df -h /
-```
+
