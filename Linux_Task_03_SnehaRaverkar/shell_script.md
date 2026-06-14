@@ -5,8 +5,11 @@ echo "System Information Report"
 echo "-------------------------"
 
 echo "User: $(whoami)"
+
 echo "Hostname: $(hostname)"
+
 echo "Date & Time: $(date)"
+
 echo "Current Directory: $(pwd)"
 
 echo ""
