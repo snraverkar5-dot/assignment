@@ -1,1 +1,8 @@
+# Cybersecurity Reflection
+
+After learning about cybersecurity, I realized that I have some habits that can put my online accounts at risk. One of the biggest risks is that I sometimes save passwords in my browser without thinking about security. I also do not always check whether a website is genuine before entering my information. Sometimes I connect to public Wi-Fi networks without knowing if they are secure. These habits can make it easier for attackers to steal information or access my accounts.
+
+To improve my security, I will make a few changes immediately. First, I will create different passwords for important accounts such as email, banking, and social media. I will also enable Multi-Factor Authentication (MFA) because it provides extra protection even if a password is stolen. Another improvement will be regularly checking for software updates on my laptop and mobile phone. I will avoid opening suspicious emails and messages, especially those asking for personal information or urgent action.
+
+Cybersecurity is important today because technology is part of our daily life. Students use the internet for learning, professionals use it for work, and people use it for banking, shopping, and communication. If proper security measures are not followed, personal data can be stolen, accounts can be hacked, and financial losses can occur. Cybersecurity helps protect our privacy and keeps our digital information safe. It also helps organizations protect customer data and maintain trust. As our dependence on technology continues to grow, cybersecurity becomes more important for everyone. By following safe online practices, we can reduce risks and enjoy the benefits of technology more safely.
 
