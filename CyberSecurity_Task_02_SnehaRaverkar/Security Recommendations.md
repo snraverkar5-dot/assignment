@@ -1,3 +1,4 @@
+
 # Security Recommendations
 
 ## 1. Implement Data Encryption
