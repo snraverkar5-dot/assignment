@@ -1,4 +1,3 @@
-
 # Risk Assessment for a College
 
 ## Risk Assessment Table
