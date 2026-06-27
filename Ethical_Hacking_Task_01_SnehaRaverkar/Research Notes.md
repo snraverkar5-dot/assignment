@@ -1,4 +1,34 @@
 
+
+## Part A: Target Selection
+
+### Website Details
+
+| Field                              | Details                                                                                                                                                                                                                                                                                |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Website Name**                   | National Informatics Centre (NIC)                                                                                                                                                                                                                                                      |
+| **URL**                            | https://www.nic.in                                                                                                                                                                                                                                                                     |
+| **Reason for Choosing the Target** | The National Informatics Centre (NIC) website was selected because it is a public-facing government website that provides official digital services and information. It is suitable for learning passive reconnaissance techniques and website security concepts in an ethical manner. |
+
+---
+
+## Part B: WHOIS Lookup
+
+A WHOIS lookup was performed to collect publicly available information about the target domain.
+
+| Field                 | Value                                                     |
+| --------------------- | --------------------------------------------------------- |
+| **Website Name**      | National Informatics Centre (NIC)                         |
+| **URL**               | https://www.nic.in                                        |
+| **Domain Name**       | `nic.in`                                                  |
+| **Registrar**         | National Informatics Centre                               |
+| **Registration Date** | 23 December 2004                                          |
+| **Expiry Date**       | 23 December 2026                                          |
+| **Name Servers**      | `ns4.nic.in`, `ns6.nic.in`, `ns8.nic.in`, `nicnet.nic.in` |
+| **Domain Status**     | `ok`                                                      |
+
+
+
 # Part C: DNS Enumeration
 
 **Target Domain:** `nic.in`
