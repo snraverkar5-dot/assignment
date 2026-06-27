@@ -71,6 +71,4 @@ The technologies used by the National Informatics Centre (NIC) website were iden
 
 The HTTP response headers of the National Informatics Centre (NIC) website were analyzed using WebSniffer. The website implements important security headers such as Content-Security-Policy (CSP), X-Frame-Options, X-Content-Type-Options, Strict-Transport-Security (HSTS), and Referrer-Policy. These headers improve website security by protecting against attacks like Cross-Site Scripting (XSS), clickjacking, MIME sniffing, and insecure HTTP communication.
 
-## Screenshot
 
-![HTTP Security Headers](images/http-security-headers.png)
