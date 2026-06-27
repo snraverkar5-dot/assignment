@@ -71,4 +71,37 @@ The technologies used by the National Informatics Centre (NIC) website were iden
 
 The HTTP response headers of the National Informatics Centre (NIC) website were analyzed using WebSniffer. The website implements important security headers such as Content-Security-Policy (CSP), X-Frame-Options, X-Content-Type-Options, Strict-Transport-Security (HSTS), and Referrer-Policy. These headers improve website security by protecting against attacks like Cross-Site Scripting (XSS), clickjacking, MIME sniffing, and insecure HTTP communication.
 
+# Part F: Robots.txt & Sitemap Analysis
+
+**Target Website:** https://www.nic.in
+
+## Robots.txt
+
+**URL:** https://www.nic.in/robots.txt
+
+**Available:**  Yes
+
+### Information Learned
+- The `robots.txt` file provides instructions to search engine crawlers about which parts of the website they are allowed or not allowed to crawl.
+- It helps website administrators control search engine indexing.
+- It may also contain references to sitemap files (if configured).
+
+---
+
+## Sitemap
+
+**URL:** https://www.nic.in/sitemap.xml
+
+**Available:**  No
+
+### Information Learned
+- No publicly accessible sitemap was found at the standard location (`/sitemap.xml`).
+- Therefore, a complete list of website URLs and indexing information could not be obtained from a sitemap.
+
+---
+
+## Summary
+
+The National Informatics Centre (NIC) website provides a **robots.txt** file, which contains crawler instructions for search engines. However, no publicly accessible sitemap was found at the standard `sitemap.xml` location. This indicates that the website either does not publish a sitemap at that location or uses a different sitemap configuration.
+
 
